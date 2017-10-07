@@ -1,0 +1,1 @@
+<?php if(function_exists('the_ratings')) { the_ratings(); } ?>
